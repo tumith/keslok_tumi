@@ -73,5 +73,13 @@ ___
 ![ftpd](https://cdn.discordapp.com/attachments/702580340681605170/787028715212898325/unknown.png)
 
 ___
+### Squirrelmail
+![install](https://media.discordapp.net/attachments/702580340681605170/787372659171393556/unknown.png?width=577&height=676)
+![unzip](https://media.discordapp.net/attachments/702580340681605170/787373068539658260/unknown.png?width=577&height=676)
+![config](https://media.discordapp.net/attachments/702580340681605170/787375129033834506/unknown.png)
+![domain](https://cdn.discordapp.com/attachments/702580340681605170/787376717592920064/unknown.png)
+![data_dir,attach](https://media.discordapp.net/attachments/702580340681605170/787377004742836274/unknown.png)
+![not work](https://cdn.discordapp.com/attachments/702580340681605170/787379374831566859/unknown.png)
+___
 ### Endir
 Þetta var voða skemmtilegt verkefni og það/ hjálpaði mér mikið til að skilja linux betur
