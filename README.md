@@ -25,6 +25,8 @@ ___
 ### Samba
 ![samba](https://cdn.discordapp.com/attachments/702580340681605170/786968329502982165/unknown.png)
 ![samba1](https://cdn.discordapp.com/attachments/702580340681605170/786968666947452928/unknown.png)
+![](https://cdn.discordapp.com/attachments/702580340681605170/787366160269836298/unknown.png)
+![](https://cdn.discordapp.com/attachments/702580340681605170/787366255170289734/unknown.png)
 ![smabaclient](https://cdn.discordapp.com/attachments/702580340681605170/786969016639029259/unknown.png)
 ![samabclient1](https://cdn.discordapp.com/attachments/702580340681605170/786980424068497448/unknown.png)
 
@@ -57,6 +59,7 @@ ___
 ___
 ### Postfix
 ![post](https://cdn.discordapp.com/attachments/702580340681605170/787014966381117440/unknown.png)
+Ég breyti ip í 192.168.100.1 /26
 ![fix](https://cdn.discordapp.com/attachments/702580340681605170/787019070050140170/unknown.png)
 ![postfix](https://cdn.discordapp.com/attachments/702580340681605170/787019567816900648/unknown.png)
 ![fixpost](https://cdn.discordapp.com/attachments/702580340681605170/787020963849830470/unknown.png)
@@ -68,3 +71,7 @@ ___
 ![ftpd](https://cdn.discordapp.com/attachments/702580340681605170/787028715212898325/unknown.png)
 ![]()
 ![]()
+
+___
+### Endir
+Þetta var voða skemmtilegt verkefni og það/ hjálpaði mér mikið til að skilja linux betur
