@@ -64,13 +64,13 @@ ___
 ![postfix](https://cdn.discordapp.com/attachments/702580340681605170/787019567816900648/unknown.png)
 ![fixpost](https://cdn.discordapp.com/attachments/702580340681605170/787020963849830470/unknown.png)
 ![fixfixpost](https://cdn.discordapp.com/attachments/702580340681605170/787026741695873044/unknown.png)
-
+![mail](https://cdn.discordapp.com/attachments/702580340681605170/787369074530189353/unknown.png)
+![sent](https://cdn.discordapp.com/attachments/702580340681605170/787369733166465074/unknown.png)
+![notsent](https://cdn.discordapp.com/attachments/702580340681605170/787371007115395133/unknown.png)
 ___
 ### Pure-FTPd
 ![Pure](https://cdn.discordapp.com/attachments/702580340681605170/787028579883548692/unknown.png)
 ![ftpd](https://cdn.discordapp.com/attachments/702580340681605170/787028715212898325/unknown.png)
-![]()
-![]()
 
 ___
 ### Endir
