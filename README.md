@@ -1,7 +1,20 @@
 # keslok_tumi
-
-### dhcp
 ___
+### static IP
+![ens38](https://cdn.discordapp.com/attachments/702580340681605170/787336038124224512/unknown.png)
+![ens33](https://cdn.discordapp.com/attachments/702580340681605170/787345454126989312/unknown.png)
+___
+### domain
+![doma](https://media.discordapp.net/attachments/702580340681605170/787333273592004649/unknown.png)
+![ain](https://cdn.discordapp.com/attachments/702580340681605170/787334706353405992/unknown.png)
+___
+### DNS
+![D](https://cdn.discordapp.com/attachments/702580340681605170/787324660085030932/unknown.png)
+![N](https://cdn.discordapp.com/attachments/702580340681605170/787325242547634216/unknown.png)
+![S](https://cdn.discordapp.com/attachments/702580340681605170/787325948302327849/unknown.png)
+![ok](https://media.discordapp.net/attachments/702580340681605170/787331212363563028/unknown.png?width=720&height=114)
+___
+### dhcp
 ![dhcp1](https://media.discordapp.net/attachments/702580340681605170/786967708532736020/unknown.png?width=660&height=677)
 ![dhcp](https://media.discordapp.net/attachments/702580340681605170/786967423340642344/unknown.png?width=1233&height=677)
 
